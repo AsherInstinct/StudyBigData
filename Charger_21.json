@@ -1,0 +1,1276 @@
+[
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "강서구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 강서구 성북동 229-1",
+        "stnPlace": "가덕도동 행정복지센터"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "강서구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 강서구 명지동 607-5",
+        "stnPlace": "강서경찰서"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "강서구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 강서구 대저1동 2300",
+        "stnPlace": "강서구청 역세권 공영주차장"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "강서구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 강서구 낙동북로 477",
+        "stnPlace": "강서구청 주차장"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "강서구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 강서구 대저2동 1932-1",
+        "stnPlace": "강서브라이트센터"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강서구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 강서구 송정동 1759",
+        "stnPlace": "녹산산단 공영주차장"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강서구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 강서구 명지동 3415",
+        "stnPlace": "명지국제호반베르디움1차"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강서구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 강서구 명지동 3244",
+        "stnPlace": "명지롯데캐슬 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강서구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 강서구 명지동 3234",
+        "stnPlace": "명지위브포세이돈"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "강서구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 강서구 지사동 1274",
+        "stnPlace": "부산테크노파크"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강서구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 강서구 명지동 3243",
+        "stnPlace": "엘크루블루오션C2"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강서구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 강서구 명지동 3235",
+        "stnPlace": "엘크루솔마레 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강서구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 강서구 명지동 3231",
+        "stnPlace": "퀸덤1차 링컨타운"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강서구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 강서구 명지동 3232",
+        "stnPlace": "퀸덤1차 아인슈타인타운"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강서구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 강서구 명지동 3230-11",
+        "stnPlace": "퀸덤1차 에디슨타운"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "금정구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 금정구 회동동 450",
+        "stnPlace": "건설안전시험사업소"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "금정구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 금정구 구서동 561-1",
+        "stnPlace": "구서SKVIEW1단지"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "금정구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 금정구 구서동 1053",
+        "stnPlace": "구서동쌍용예가1단지 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "금정구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 금정구 구서동 475",
+        "stnPlace": "구서역"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "금정구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 금정구 구서동 420-12",
+        "stnPlace": "구서유림노르웨이아침 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "금정구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 금정구 부곡동 78",
+        "stnPlace": "금정구청"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "금정구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 금정구 장전동 732",
+        "stnPlace": "금정산쌍용예가1차 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "금정구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 금정구 청룡동 315",
+        "stnPlace": "로얄펠리스아파트"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "금정구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 금정구 구서동 481-1",
+        "stnPlace": "만남의광장"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "금정구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 금정구 부곡동 268-2",
+        "stnPlace": "부곡동푸르지오"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "금정구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 금정구 부곡동 970",
+        "stnPlace": "부곡롯데캐슬디아망 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "금정구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 금정구 부곡동 441-27",
+        "stnPlace": "부산대남측"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "금정구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 금정구 장전동 427",
+        "stnPlace": "부산대북측"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "금정구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 금정구 두구동 1494-1",
+        "stnPlace": "부산영락공원"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "금정구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 금정구 노포동 176",
+        "stnPlace": "부산종합버스터미널 주차장"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "금정구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 금정구 두구동 1641",
+        "stnPlace": "부산지방공단스포원"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "금정구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 금정구 두구동 174-1",
+        "stnPlace": "선두구동 행정복지센터"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "기장군",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 기장군 철마면 고촌리 684",
+        "stnPlace": "고촌LH 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "기장군",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 기장군 기장읍 시랑리 408-1",
+        "stnPlace": "국립수산과학관"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "기장군",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 기장군 일광면 원리 39",
+        "stnPlace": "군민체육공원"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "기장군",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 기장군 기장읍 청강로 76",
+        "stnPlace": "기장우신네오빌"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "기장군",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 기장군 기장읍 청강리 154-6",
+        "stnPlace": "기장지사"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "기장군",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 기장군 기장읍 당사리 524",
+        "stnPlace": "롯데몰 동부산점"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "기장군",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 기장군 기장읍 서부리 102",
+        "stnPlace": "서부주공 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "기장군",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 기장군 기장읍 신천리 1",
+        "stnPlace": "신천리 공영주차장"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "기장군",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 기장군 철마면 안평리 582-21",
+        "stnPlace": "안평역"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "남구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 남구 용호동 895-18",
+        "stnPlace": "남구국민체육센터"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "남구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 남구 대연동 1268-1",
+        "stnPlace": "남구청 서편 주차장"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "남구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 남구 대연동 252-1",
+        "stnPlace": "대연경동메르빌"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "남구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 남구 문현동 41",
+        "stnPlace": "문현한양아파트"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "남구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 남구 문현동 1229-1",
+        "stnPlace": "부산국제금융센터"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "남구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 남구 용호동 176-30",
+        "stnPlace": "엘지메트로시티 아파트(101동)"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "남구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 남구 용호동 176-30",
+        "stnPlace": "엘지메트로시티 아파트(123동)"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "남구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 남구 용호동 176-30",
+        "stnPlace": "엘지메트로시티 아파트(138동)"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "남구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 남구 용호동 176-30",
+        "stnPlace": "엘지메트로시티 아파트(201동)"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "남구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 남구 용호동 14-1",
+        "stnPlace": "이기대 제1공영주차장"
+    },
+    {
+        "carType": "레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV",
+        "city": "동구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 동구 범일동 830-15",
+        "stnPlace": "Green Pole(화신칼라1)"
+    },
+    {
+        "carType": "레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV",
+        "city": "동구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 동구 범일동 830-72",
+        "stnPlace": "Green Pole(화신칼라2)"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "동구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 동구 범일동 183",
+        "stnPlace": "가구거리 공영주차장"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "동구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 동구 좌천동 68-889",
+        "stnPlace": "남해지방해양경찰청"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "동구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 동구 수정동 712-148",
+        "stnPlace": "동구체육공원 공영주차장"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "동구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 동구 초량동 1167",
+        "stnPlace": "부산과학체험관"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "동구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 동구 초량동 45-39",
+        "stnPlace": "부산항국제여객터미널"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "동구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 동구 수정동 1043-60",
+        "stnPlace": "수정1동 공영주차장"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "동구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 동구 수정동 1178-47",
+        "stnPlace": "수정공원상로 제1노상주차장"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "동구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 동구 수정동 600-3",
+        "stnPlace": "수정산 공영주차장"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "동구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 동구 초량동 544-4",
+        "stnPlace": "차이나타운 공영주차장"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "동래구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 동래구 명륜동 756-1",
+        "stnPlace": "동래센트럴파크하이츠2단지"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "동래구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 동래구 안락동 451-10",
+        "stnPlace": "동래지사"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "동래구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 동래구 안락동 962",
+        "stnPlace": "동래화목타운"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "동래구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 동래구 명륜동 753",
+        "stnPlace": "명륜쌍용예가"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "동래구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 동래구 명륜동 741",
+        "stnPlace": "명륜역"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "동래구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 동래구 명장동 63-9",
+        "stnPlace": "명장삼성타운"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "동래구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 동래구 사직동 1019",
+        "stnPlace": "사직 삼환나우빌"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "동래구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 동래구 사직동 1017",
+        "stnPlace": "사직쌍용예가 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "동래구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 동래구 온천동 153-8",
+        "stnPlace": "홈플러스 동래점"
+    },
+    {
+        "carType": "레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV",
+        "city": "부산진구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 부산진구 전포동 689-28",
+        "stnPlace": "Green Pole(경남공고옆)"
+    },
+    {
+        "carType": "레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV",
+        "city": "부산진구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 부산진구 전포동 631-15",
+        "stnPlace": "Green Pole(서면BMW인근)"
+    },
+    {
+        "carType": "레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV",
+        "city": "부산진구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 부산진구 전포동 608-1",
+        "stnPlace": "Green Pole(서면중앙시장)"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "부산진구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 부산진구 가야동 698",
+        "stnPlace": "가아KT-e편한세상"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "부산진구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 부산진구 양정동 525",
+        "stnPlace": "대원칸타빌멤버스"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "부산진구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 부산진구 범천동 861-1",
+        "stnPlace": "부산교통공사 본사"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "부산진구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 부산진구 연지동 219-2",
+        "stnPlace": "부산국립국악원"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "부산진구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 부산진구 부전동 576-1",
+        "stnPlace": "부산시설공단(중앙몰)"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "부산진구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 부산진구 부전동 224-7",
+        "stnPlace": "부산울산전력관리처"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "부산진구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 부산진구 부전동 224-7",
+        "stnPlace": "부산울산전력관리처(공용)"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "부산진구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 부산진구 부전동 224-7",
+        "stnPlace": "부산울산직할"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "부산진구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 부산진구 양정동 273-20",
+        "stnPlace": "상수도사업본부"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "부산진구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 부산진구 범천동 1054",
+        "stnPlace": "서면e편한세상"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "부산진구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 부산진구 양정동 458-5",
+        "stnPlace": "양정현대1차"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "부산진구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 부산진구 양정동 458-20",
+        "stnPlace": "양정현대2차 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "부산진구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 부산진구 연지동 406",
+        "stnPlace": "연지자이2차"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "부산진구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 부산진구 범천동 1000-24",
+        "stnPlace": "한라비발디스튜디오422"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "부산진구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 부산진구 전포동 892-20",
+        "stnPlace": "홈플러스 서면점"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "북구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 북구 구포동 969-4",
+        "stnPlace": "구포2동 공영주차장"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "북구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 북구 구포동 849-1",
+        "stnPlace": "구포대우아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "북구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 북구 구포동 1293",
+        "stnPlace": "구포유림노르웨이숲"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "북구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 북구 금곡동 57-1",
+        "stnPlace": "금곡주공3단지"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "북구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 북구 덕천동 732-5",
+        "stnPlace": "대리천 공영주차장"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "북구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 북구 구포동 1296",
+        "stnPlace": "동원로얄듀크비스타"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "북구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 북구 만덕동 642-15",
+        "stnPlace": "만덕1동 공영주차장"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "북구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 북구 만덕동 289-1",
+        "stnPlace": "만덕2동 주민센터"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "북구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 북구 만덕동 872-3",
+        "stnPlace": "만덕동심공원 공영주차장"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "북구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 북구 구포동 1124-1",
+        "stnPlace": "부산 북구청"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "북구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 북구 금곡동 1915",
+        "stnPlace": "율리벽산블루밍"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "북구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 북구 만덕대로155번길 99 (덕천동, 한국폴리텍대학부산캠퍼스)",
+        "stnPlace": "한국폴리텍대학 부산캠퍼스"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "북구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 북구 화명동 1170-1",
+        "stnPlace": "화명동대림타운"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "북구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 북구 화명동 2264",
+        "stnPlace": "화명롯데 아파트낙천대"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "북구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 북구 금곡동 1898",
+        "stnPlace": "화명한일유앤아이 아파트"
+    },
+    {
+        "carType": "레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV",
+        "city": "사상구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사상구 모라동 1345-7",
+        "stnPlace": "Green Pole(곡상골)"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "사상구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사상구 새벽시장로135",
+        "stnPlace": "감전역 역세권 공영주차장"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "사상구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사상구 덕포동 793",
+        "stnPlace": "덕포경동메르빌 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "사상구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사상구 괘법동 529-1",
+        "stnPlace": "르네시떼"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "사상구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사상구 모라로93",
+        "stnPlace": "모라1동행정복지센터 부설주차장"
+    },
+    {
+        "carType": "레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV",
+        "city": "사상구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사상구 모라동 552",
+        "stnPlace": "모라백양그린"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "사상구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사상구 모라동 203",
+        "stnPlace": "모라벽산 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "사상구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사상구 모라동 334",
+        "stnPlace": "모라삼정그린코아"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "사상구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사상구 백양대로936",
+        "stnPlace": "모라중학교 지하 공영주차장"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "사상구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사상구 주례동 666",
+        "stnPlace": "부산구치소"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "사상구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사상구 덕포동 89",
+        "stnPlace": "북부산지사"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "사상구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사상구 덕포동 89",
+        "stnPlace": "북부산지사(공용)"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "사상구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사상구 감전동 138-8",
+        "stnPlace": "사상구청 부설주차장"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "사상구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사상구 주례동 10-4",
+        "stnPlace": "신주례엘지2단지 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "사상구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사상구 엄궁동 669-2",
+        "stnPlace": "엄궁대림 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "사상구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사상구 엄궁동 680-2",
+        "stnPlace": "엄궁쌍용스윗닷홈 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "사상구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사상구 엄궁동 680-1",
+        "stnPlace": "엄궁코오롱 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "사상구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사상구 주례동 154-1",
+        "stnPlace": "주례2동 행정복지센터"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "사상구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사상구 주례동 3-32",
+        "stnPlace": "주례한효 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "사상구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사상구 학장동 571-3",
+        "stnPlace": "학장동신구덕우성 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "사상구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사상구 학장동 574-57",
+        "stnPlace": "학장삼성2차 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "사하구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사하구 괴정동 398-22",
+        "stnPlace": "괴정신익타운 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "사하구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사하구 구평동 497",
+        "stnPlace": "구평한신휴플러스"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "사하구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사하구 신평동 646-1",
+        "stnPlace": "국민건강보험공단"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "사하구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사하구 하단동 1150-8",
+        "stnPlace": "낙동강하구에코센터"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "사하구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사하구 다대동 120-1",
+        "stnPlace": "다대현대 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "사하구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사하구 당리동 17-2",
+        "stnPlace": "당리혜성 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "사하구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사하구 신평동 646-2",
+        "stnPlace": "사하구 제2청사"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "사하구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 사하구 하단동 1149-35",
+        "stnPlace": "을숙도 공영주차장"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "서구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 서구 토성동1가 29",
+        "stnPlace": "남부건설본부"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "서구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 서구 서대신동3가 762",
+        "stnPlace": "대신 롯데캐슬"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "서구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 서구 부민동3가 76",
+        "stnPlace": "부민e-편한세상"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "서구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 서구 암남동 761",
+        "stnPlace": "부산국제수산물유통시설관리사업소"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "서구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 서구 암남동 611-1",
+        "stnPlace": "송도현대아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "서구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 서구 토성동1가 23",
+        "stnPlace": "중부산지사"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "수영구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 수영구 민락동113-46",
+        "stnPlace": "민락동 매립지 공영주차장"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "수영구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 수영구 망미동 603-2",
+        "stnPlace": "부산도시재생지원센터 비콘그라운드"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "수영구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 수영구 민락동 110-15",
+        "stnPlace": "수변어린이공원 공영주차장"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "수영구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 수영구 광안동 1333",
+        "stnPlace": "수영구 스포츠문화타운"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "수영구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 수영구 남천동 148-15",
+        "stnPlace": "수영구청"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "수영구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 수영구 민락동 336-36",
+        "stnPlace": "수영만아이파크"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "연제구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 연제구 거제동 1466-17",
+        "stnPlace": "거제1동 공영주차장"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "연제구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 연제구 거제동 1479",
+        "stnPlace": "거제2차현대홈타운"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "연제구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 연제구 거제동 1468-1",
+        "stnPlace": "거제동월드메르디앙 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "연제구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 연제구 거제동 1515",
+        "stnPlace": "거제동일동미라주리버 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "연제구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 연제구 거제동 1506",
+        "stnPlace": "거제동푸르지오"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "연제구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 연제구 거제동 1272",
+        "stnPlace": "거제삼정그린코아"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "연제구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 연제구 거제동 1510",
+        "stnPlace": "롯데캐슬피렌체아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "연제구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 연제구 연산동 2298",
+        "stnPlace": "연산경동메르빌"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "연제구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 연제구 연산동 2235-4",
+        "stnPlace": "연산선경 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "연제구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 연제구 연산동 2262",
+        "stnPlace": "연산자이 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "연제구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 연제구 연산동 388-1",
+        "stnPlace": "연산한양 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "연제구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 연제구 연산동 1555-1",
+        "stnPlace": "연제구청"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "영도구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 영도구 동삼동 1156",
+        "stnPlace": "국립 해양박물관"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "영도구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 영도구 남항동2가 22-1",
+        "stnPlace": "영도지사"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "영도구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 영도구 동삼동 1011",
+        "stnPlace": "태종대공원입구 주차장"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "중구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 중구 대청동1가 1-4",
+        "stnPlace": "부산 중구청"
+    },
+    {
+        "carType": "레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV",
+        "city": "해운대구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 해운대구 반여동 1291-562",
+        "stnPlace": "Green Pole(반여부산은행)"
+    },
+    {
+        "carType": "레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV",
+        "city": "해운대구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 해운대구 송정동 706-1",
+        "stnPlace": "Green Pole(송정해수욕장)"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "해운대구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 해운대구 좌동 1375",
+        "stnPlace": "경남아너스빌아파트"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "해운대구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 해운대구 우동 1388-8",
+        "stnPlace": "남부산지사"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "해운대구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 해운대구 반여동 1662",
+        "stnPlace": "메가센텀꿈에그린아파트"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "해운대구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 해운대구 반여동 559",
+        "stnPlace": "반여농산물도매시장관리사업소"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "해운대구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 해운대구 반여동 1575-78",
+        "stnPlace": "반여도서관"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "해운대구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 해운대구 우동 1500",
+        "stnPlace": "벡스코"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "해운대구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 해운대구 우동 1413-4",
+        "stnPlace": "벡스코 제2전시장 지하주차장"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "해운대구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 해운대구 우동 1457",
+        "stnPlace": "부산디자인진흥원"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "해운대구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 해운대구 재송동 380-1",
+        "stnPlace": "센텀동부센트레빌"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "해운대구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 해운대구 우동 1413",
+        "stnPlace": "시립미술관"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "해운대구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 해운대구 우동 1495",
+        "stnPlace": "신세계 센텀점"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "해운대구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 해운대구 우동 1467",
+        "stnPlace": "영화의전당"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "해운대구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 해운대구 송정광어골로 42(Green Pole)",
+        "stnPlace": "지상변압기일체형(송정KT앞 )"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "해운대구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 해운대구 중동 552",
+        "stnPlace": "청사포 공영주차장"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "해운대구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 해운대구 재송동 1192",
+        "stnPlace": "해운대구청별관"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "해운대구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 해운대구 재송동 1223",
+        "stnPlace": "해운대더샵센텀누리 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "해운대구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 해운대구 중동 149-1",
+        "stnPlace": "해운대메트로하이츠 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "해운대구",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 해운대구 센텀동로 6 (우동, 홈플러스센템시티점)",
+        "stnPlace": "홈플러스 센텀시티점"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": " ",
+        "metro": "부산광역시",
+        "stnAddr": "부산광역시 남구 대연동 848-4",
+        "stnPlace": "부산문화회관"
+    }
+]

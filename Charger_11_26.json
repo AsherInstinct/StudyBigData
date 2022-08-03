@@ -1,0 +1,380 @@
+[
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 자곡동 자곡로3길 21",
+        "stnPlace": "LH강남힐스테이트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 선릉로 121길 12",
+        "stnPlace": "LH서울지사"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 일원동 일원로 127",
+        "stnPlace": "가람아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 삼성동 16-1",
+        "stnPlace": "강남구청 공영주차장"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 세곡동 헌릉로590길 63",
+        "stnPlace": "강남데시앙파크"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 수서동 광평로34길55",
+        "stnPlace": "강남데시앙포레"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 언주로 211",
+        "stnPlace": "강남세브란스 병원"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 자곡동 자곡로 175",
+        "stnPlace": "강남아이파크"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 율현동 밤고개로27길 20",
+        "stnPlace": "강남한신휴 플러스8단지"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 율현동 밤고개로26길 50",
+        "stnPlace": "강남한신휴플러스6단지 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 자곡동 자곡로 260",
+        "stnPlace": "강남한양수자인"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 역삼동 역삼로 306",
+        "stnPlace": "개나리래미안 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 역삼동 755-1",
+        "stnPlace": "개나리푸르지오"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 일원동 개포로110길 15",
+        "stnPlace": "개포7차 우성 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 역삼동 701",
+        "stnPlace": "공무원연금공단 서울지부(상록회관)"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 삼성동 봉은사로111길 25",
+        "stnPlace": "금호어울림 아파트(삼성동)"
+    },
+    {
+        "carType": "SM3 Z.E,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 대치동 980-9",
+        "stnPlace": "대치2문화센터 공영주차장"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 대치동 삼성로64길 5",
+        "stnPlace": "대치현대 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 도곡동 언주로30길 13",
+        "stnPlace": "도곡대림아크로빌"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 도곡동 선릉로 221",
+        "stnPlace": "도곡렉슬 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 삼성로67길 14",
+        "stnPlace": "도성 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 삼성동 봉은사로 645",
+        "stnPlace": "라테라스삼성"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 자곡동 자곡로 101",
+        "stnPlace": "래미안강남힐즈"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 역삼동 도곡로43길 20",
+        "stnPlace": "래미안그레이튼"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 대치동 삼성로51길 37",
+        "stnPlace": "래미안대치팰리스"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 대치동 도곡로93길 12",
+        "stnPlace": "래미안대치하이스턴 아파트"
+    },
+    {
+        "carType": "레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 삼성동 103-22",
+        "stnPlace": "래미안삼성1차"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 삼성동 봉은사로109길 14-8",
+        "stnPlace": "삼성동 에스케이뷰 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 삼성동 48",
+        "stnPlace": "삼성동한일아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 삼성동 학동로64길 14",
+        "stnPlace": "삼성동현대아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 삼성로 111길 8",
+        "stnPlace": "삼성동힐스테이트2단지"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 삼성동 3-8",
+        "stnPlace": "삼성우정에쉐르아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 삼성동 학동로68길 30",
+        "stnPlace": "삼성중앙하이츠빌리지"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 삼성동 삼성로99길 14",
+        "stnPlace": "삼성파크 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 일원동 일원로 120",
+        "stnPlace": "샘터마을 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 세곡동 508",
+        "stnPlace": "세곡리엔파크1단지"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 세곡동 헌릉로 590길10",
+        "stnPlace": "세곡리엔파크2단지 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 세곡동 헌릉로590길 11",
+        "stnPlace": "세곡리엔파크3단지"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 세곡동 533",
+        "stnPlace": "세곡푸르지오아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 삼성동 영동대로 640",
+        "stnPlace": "아이파크삼성동"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 논현동 276-1",
+        "stnPlace": "아크로힐스논현"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 신사동 압구정로42길 78",
+        "stnPlace": "압구정하이츠파크"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 역삼동 도곡로57길 12",
+        "stnPlace": "역삼2차아이파크아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 역삼동 755-4",
+        "stnPlace": "역삼e-편한세상"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 역삼동 757",
+        "stnPlace": "역삼래미안"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 대치동 950",
+        "stnPlace": "우정에쉐르 3차"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 청담동 영동대로142길 16",
+        "stnPlace": "청담래미안로이뷰"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 청담동 영동대로138길 12",
+        "stnPlace": "청담자이 아파트"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 청담동 학동로97길 31",
+        "stnPlace": "청담파크파라곤"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 도곡동 언주로30길 57",
+        "stnPlace": "타워팰리스 2차"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 도곡동 언주로30길 56",
+        "stnPlace": "타워팰리스1차"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 도곡동 언주로30길 26",
+        "stnPlace": "타워팰리스G동"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 율현동 101-13",
+        "stnPlace": "헌릉로745길 노상주차장"
+    },
+    {
+        "carType": "SM3 Z.E,레이EV,소울EV,닛산리프,아이오닉EV,BMW i3,스파크EV,볼트EV,테슬라",
+        "city": "강남구",
+        "metro": "서울특별시",
+        "stnAddr": "서울특별시 강남구 역삼동 710",
+        "stnPlace": "현대까르띠에710아파트"
+    }
+]
