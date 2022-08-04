@@ -92,17 +92,18 @@ def main():
     if natName == '':
         print('데이터 호출 실패. 공공데이터포털 확인 요망')
     else:
-        pass
+        
 
-    # 파일저장 1 json file
-    with open(f'./{natName}_{ed}_{nStartYear}_{nEndYear}.json', mode='w', encoding='utf-8') as outfile:
-        jsonFile = json.dumps(jsonResult, indent=4, sort_keys=True, ensure_ascii=False)
-        outfile.write(jsonFile)
-
-    # 파일저장2 csv
-    columns = ['입국자국가','국가코드','입국연월','입국자 수']
-    result_df = pd.DataFrame(result, columns=columns)
-    result_df.to_csv(f'./{natName}_{ed}_{nStartYear}_{nEndYear}.csv', index= False, encoding='utf-8')
+        # 파일저장 1 json file
+        with open(f'./{natName}_{ed}_{nStartYear}_{nEndYear}.json', mode='w', encoding='utf-8') as outfile:
+            jsonFile = json.dumps(jsonResult, indent=4, sort_keys=True, ensure_ascii=False)
+            outfile.write(jsonFile)
     
+        # 파일저장2 csv
+        columns = ['입국자국가','국가코드','입국연월','입국자 수']
+        result_df = pd.DataFrame(result, columns=columns)
+        result_df.to_csv(f'./{natName}_{ed}_{nStartYear}_{nEndYear}.csv', index= False, encoding='utf-8')
+        
+        print('파일 저장 완료.')
 if __name__ == '__main__':
     main()

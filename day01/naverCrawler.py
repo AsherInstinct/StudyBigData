@@ -86,6 +86,3 @@ if __name__ == '__main__':
     main()
 
 
-
-#[code 3]
-# def getPostData(post, jsonResult, cnt):
