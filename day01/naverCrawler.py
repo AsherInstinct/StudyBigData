@@ -40,6 +40,7 @@ def getNaverSearch(node, srcText, start, display):
     else:
         return json.loads(responseDecode)
 
+# code 3
 def getPostData(post, jsonResult, cnt):
     title = post['title']
     description = post['description']
@@ -66,10 +67,10 @@ def main():
     while ((jsonRes != None) and (jsonRes['display'] != 0)):
         for post in jsonRes['items']:
             cnt += 1
-            getPostData(post, jsonResult, cnt)
+            getPostData(post, jsonResult, cnt)      #code 3
         
         start = jsonRes['start'] + jsonRes['display']
-        jsonRes = getNaverSearch(node, srcText, start, 50)
+        jsonRes = getNaverSearch(node, srcText, start, 50)     #code 2
 
     print(f'전체 검색 : {total} 건')
 

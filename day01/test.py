@@ -64,7 +64,7 @@ def main():
     
 
     for data in jsonRes['data']:
-        getChargeData(data, jsonResult)
+        getChargeData(data, jsonResult)     #code 3
         cnt = cnt + 1
     
     #file output
