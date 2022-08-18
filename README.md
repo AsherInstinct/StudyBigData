@@ -51,5 +51,4 @@
 - PyQt5 학습
    - 네이버 API로 네이버 뉴스 검색 및 csv 파일로 저장
    
-![NaverCrawling]
-https://raw.githubusercontent.com/AsherInstinct/StudyBigData/main/image/navercrawl.png
+![NaverCrawling](https://raw.githubusercontent.com/AsherInstinct/StudyBigData/main/image/navercrawl.png)
