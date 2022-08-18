@@ -8,13 +8,21 @@ from urllib.parse import quote
 import urllib.request
 import json
 import webbrowser
+import pandas as pd #csv 저장용
 
 # 클래스 OOP
 class qPushbutton(QWidget):
+
+    start = 1       # api를 호출할때 시작하는 데이터 번호
+    max_display = 100       # 한페이지에 나올 데이터 수 지정
+    saveResult = []     #저장할 때 담을 데이터(딕셔너리 리스트) -> DataFrame
+    
+
+
     # 생성자
     def __init__(self) -> None :        # 리턴값이 None (생성자는 기본적으로 return 값이 없다.)
         super().__init__()
-        uic.loadUi('./PyQt02/navernews.ui', self)
+        uic.loadUi('./PyQt03/navernews_2.ui', self)
         self.initUI()
 
     def initUI(self):
@@ -25,6 +33,9 @@ class qPushbutton(QWidget):
         self.btnSearch.clicked.connect(self.btnSearchClicked)
         self.txtSearch.returnPressed.connect(self.btnSearchClicked)
         self.tblResult.itemSelectionChanged.connect(self.tblResultSelected)
+        # 220818 추가버튼 이벤트(시그널) 확장
+        self.btnNext.clicked.connect(self.btnNextClicked)
+        self.btnSave.clicked.connect(self.btnSaveClicked)
 
     def tblResultSelected(self) -> None:
         selected = self.tblResult.currentRow()      # 현재 선택된 열의 인덱스
@@ -36,18 +47,53 @@ class qPushbutton(QWidget):
         totalResult = []
         keyword = 'news'
         search_word = self.txtSearch.text()
-        display_count = 50
+
 
         # QMessageBox.information(self, '결과', search_word)     # 일반정보창
-        jsonResult = self.getNaverSearch(keyword, search_word, 1, display_count)
+        jsonResult = self.getNaverSearch(keyword, search_word, self.start, self.max_display)
         # print(jsonResult)
 
         for post in jsonResult['items']:
             totalResult.append(self.getPostData(post))
 
         self.makeTable(totalResult)
-        return
 
+        #saveResult 값 할당, lblStatus /2 상태값을 표시
+        total = jsonResult['total']
+        current = self.start + self.max_display - 1
+
+        self.lblStatus.setText(f'Data : {current} / {total}')
+
+        #saveResult 변수에 저장할 데이터를 복사
+        for post in totalResult:
+            self.saveResult.append(post[0])
+
+        self.lblStatus2.setText(f'저장할데이터 > {len(self.saveResult)}개')
+
+        if current >= 1000:
+            self.btnNext.setDisabled(True)      # 특정 갯수 도달시 다음버튼 비활성화
+        else:
+            self.btnNext.setEnabled(True)
+
+    def btnNextClicked(self) -> None:
+        self.start = self.start + self.max_display
+        self.btnSearchClicked()
+
+
+    def btnSaveClicked(self) -> None:
+        if len(self.saveResult) >0:
+            df = pd.DataFrame(self.saveResult)
+            df.to_csv(f'./PyQt03/{self.txtSearch.text()}_뉴스검색결과.csv', encoding='utf-8', index=True)
+
+        QMessageBox.information(self, '저장','저장완료')
+        # 저장 후 모든 변수 초기화
+        self.saveResult = []
+        self.start = 1
+        self.txtSearch.setText('')
+        self.lblStatus.setText('Data : ')
+        self.lblStatus2.setText('저장할 데이터 >')
+        self.tblResult.setRowCount(0)
+        self.btnNext.setEnabled(True)
 
     def makeTable(self, result):
         self.tblResult.setSelectionMode(QAbstractItemView.SingleSelection)
@@ -79,10 +125,10 @@ class qPushbutton(QWidget):
 
     def getPostData(self, post):
         temp = []
-        title = post['title']
+        title = self.strip_tag(post['title'])
         originallink = post['originallink']
         link = post['link']
-        description = post['description']
+        description = self.strip_tag(post['description'])
         pubDate = post['pubDate']
 
         temp.append({'title':title,
