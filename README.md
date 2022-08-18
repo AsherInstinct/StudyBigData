@@ -47,3 +47,9 @@
   - QtDesigner로 ui 생성
   - 네이버 API로 네이버뉴스, 영화 검색앱 작성
   
+## PyQt 3
+- PyQt5 학습
+   - 네이버 API로 네이버 뉴스 검색 및 csv 파일로 저장
+   
+![NaverCrawling]
+https://raw.githubusercontent.com/AsherInstinct/StudyBigData/main/image/navercrawl.png
